@@ -1,0 +1,6 @@
+{
+  "name": "ZORK CRAFT — منصة ماينكرافت بيدروك",
+  "description": "المنصة الرسمية الرائدة لاكتشاف وتحميل إضافات، مودات، شيدرات، وسكنات Minecraft Bedrock العربية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
